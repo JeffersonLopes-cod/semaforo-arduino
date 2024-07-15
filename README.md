@@ -48,5 +48,3 @@ Acende o LED vermelho e apaga os outros LEDs. Dura 5 segundos.
 
 ### sonoro()
 Ativa o buzzer por 1 segundo durante o sinal amarelo.
-
-## Código
